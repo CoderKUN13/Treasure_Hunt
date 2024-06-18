@@ -13,8 +13,6 @@ letter_index = abc.index(letter)
 num_index = int(position[1]) - 1
 
 map[num_index][letter_index]= "X" 
-print(map)
-
 
 print(f"{row1}\n{row2}\n{row3}")
 
